@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+from: markdown+emoji
+
+website:
+  title: ""
+  navbar:
+    background: light
+    twitter-card: true
+    search: false
+    right:
+      - text: "Home"
+        file: index.qmd
+      - research.qmd
+      - teaching.qmd 
+      - students.qmd
+  page-footer: "Amanda Luby, 2022 <br/> Made with :coffee: and quarto" 
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+
+editor: visual
+

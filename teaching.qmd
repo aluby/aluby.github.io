@@ -1,0 +1,59 @@
+---
+title: Teaching
+---
+
+Current students can take a look at recent syllabi here to get a sense of what my classes are like, but you can generally expect a collaborative classroom where you'll learn real-world data analysis skills alongside statistical theory. If you are an instructor of a similar course, please reach out and I am happy to share materials with you.
+
+## At Carleton:
+
+Stat120: Introduction to Statistics
+
+- Fall 2024 \[[Visual Syllabus](files/visual-syllabus-f24.pdf)\] \[[Schedule](files/calendar-f24.pdf)\]
+
+Stat220: Introduction to Data Science
+
+- Winter 2025 \[[Syllabus](files/stat220-w25-syllabus.pdf)\] \[[Schedule](files/stat220-w25-cal.pdf)\]
+- Spring 2025
+
+Stat250: Introduction to Statistical Inference
+
+- Spring 2025
+
+
+## At Swarthmore:
+
+Stat011: Statistical Methods I
+
+-   Spring 2022 \[[Visual Syllabus](files/stat011-s22-visual.pdf)\]
+
+-   Spring 2021 \[[Visual Syllabus](files/stat011-s21-visual.pdf)\]
+
+-   Fall 2019
+
+Stat021: Statistical Methods II
+
+-   Fall 2021 \[[Visual Syllabus](files/stat021-f21-visual.pdf)\]
+
+Stat041: Topics in Applied Statistics: Statistical Graphics and Data Visualization
+
+-   January Term 2021 [\[Course Website\]](https://aluby.domains.swarthmore.edu/stat041/) \[[Syllabus](files/stat041-j21-visual.pdf)\]
+
+Stat051: Probability
+
+-   Spring 2020
+
+Stat061: Mathematical Statistics I
+
+-   Fall 2023 \[[Course Github](https://github.com/aluby/STAT61-F23)\]
+
+## At Carnegie Mellon:
+
+Stat225: Introduction to Probability Theory
+
+-   Summer 2018
+
+-   Summer 2017
+
+Stat309: Experimental Design for Behavioral and Social Sciences
+
+-   Summer 2016

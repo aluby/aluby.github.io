@@ -1,0 +1,51 @@
+---
+title: "Amanda Luby"
+subtitle: aluby [at] carleton dot edu
+about:
+  id: hero-heading
+  template: trestles
+  image: luby.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/aluby
+    - icon: fingerprint
+      text: CSAFE
+      href: https://forensicstats.org/
+    - icon: file-earmark-pdf-fill
+      text: CV
+      href: https://aluby.github.io/files/cv.pdf
+    - icon: mortarboard-fill
+      text: Scholar
+      href: https://scholar.google.com/citations?user=C4ha274AAAAJ&hl=en
+---
+
+::: {#hero-heading}
+I am an Assistant Professor of Statistics at Carleton College and a researcher with the Center for Statistics and Applications in Forensic Evidence. I received my PhD from Carnegie Mellon University in 2019. Prior to Carleton, I taught at Swarthmore College for five years.
+
+I primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis.
+
+I'm also interested in statistics pedagogy, particularly in trying to better understand (and fix!) misconceptions among introductory students, and better integrating computing, applications, and theory in upper-level courses.
+
+I'm always seeking new collaborations in the social and criminal justice space. Please get in touch if you'd like to work together on a quantitative project in this realm!
+
+I use she/her pronouns, and my last name is pronounced "loo-bee".
+:::
+
+## Upcoming:
+
+-   Mar 2025: I'll be presenting in a session on [Evaluating Scientific Validity of Forensic Science Methods Used in Criminal Courts](https://www.enar.org/meetings/spring2025/program/preliminary_program.cfm) at ENAR in New Orleans, LA. 
+
+- Spring term 2025: I'm teaching `Stat220`: Intro to Data Science and `Stat250`: Statistical Inference 
+
+- Aug 2025: I'll be presenting in a session on Data-Driven Justice: Transforming Forensic Science with Statistics, AI, and Data Science at JSM in Nashville, TN.
+
+- Summer 2025: I'll be starting up my research group at Carleton College 
+
+## Recent (ish):
+
+-   Dec 2024: [Methodological Problems in Every Black-Box Study of Forensic Firearm Comparisons](https://academic.oup.com/lpr/article/23/1/mgae015/7917599) was published open-access at *Law, Probability, and Risk*. (Joint work with Maria Cuellar, Susan Vanderplas, Michael Rosenblum)
+
+-   February 2024: Presented "An Empirical Approach to Inconclusives in Forensic Black Box Studies" at the North Sea Group Seminar on Legal Evidence and Proof. (Joint work with Jay Kadane)
+
+-   June 2023: I was awarded the Stephen E Fienberg Young Investigator award for Best Project at the [International Conference for Forensic Inference and Statistics](https://www.law.lu.se/#!ICFIS) in Lund, Sweden. I presented joint work with Erwin Mattijssen (NFI) on applying IRT to firearms analysis.

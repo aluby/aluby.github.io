@@ -39,7 +39,7 @@
     "href": "research.html#peer-reviewed-research-articles",
     "title": "Publications",
     "section": "Peer-reviewed research articles:",
-    "text": "Peer-reviewed research articles:\nMaria Cuellar, Susan Vanderplas, Amanda Luby, and Michael Rosenblum, “Methodological problems in every black-box study of forensic firearm comparisons,” Under Review, 2024.\nAmanda Luby, “A method for quantifying individual decision thresholds of fingerprint examiners,” Forensic Science International: Synergy, 7:100340, 2023.\nMaria Cuellar, Jacqueline Mauro, and Amanda Luby, “A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system” Journal of the Royal Statistical Society Series A - Statistics in Society, 185(2), 2022.\nAlex Reinhart, Ciaran Evans, Amanda Luby, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent “Think-aloud interviews: A tool for exploring student statistical reasoning” Journal of Statistics and Data Science Education, 2022. 30(2).\nShannon Gallagher*, Kayla Frisoli*, Amanda Luby*, “Opening up the court (surface) in tennis grand slams”, Journal of Quantitative Analysis in Sports, 2021. 17(4), 255-271.\nAmanda Luby, Anjali Mazumder, Brian Junker, “Psychometric Analysis of Forensic Examiner Behavior”, Behaviormetrika, 2020. 47, 355-384.\nAmanda Luby, Joseph B Kadane, “Proficiency testing of fingerprint examiners with Bayesian Item Response Theory,” Law, Probability & Risk, 2018. 17(2), 111-121.\nAmanda Luby, “Strengthening Analyses of Lineup Procedures: A log-linear model framework,” Law, Probability & Risk, 2017. 16(4), 241–257."
+    "text": "Peer-reviewed research articles:\nMaria Cuellar, Susan Vanderplas, Amanda Luby, and Michael Rosenblum, “Methodological problems in every black-box study of forensic firearm comparisons,” Law, Probability, & Risk, 23(1) 2024.\nAmanda Luby, “A method for quantifying individual decision thresholds of fingerprint examiners,” Forensic Science International: Synergy, 7:100340, 2023.\nMaria Cuellar, Jacqueline Mauro, and Amanda Luby, “A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system” Journal of the Royal Statistical Society Series A - Statistics in Society, 185(2), 2022.\nAlex Reinhart, Ciaran Evans, Amanda Luby, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent “Think-aloud interviews: A tool for exploring student statistical reasoning” Journal of Statistics and Data Science Education, 2022. 30(2).\nShannon Gallagher*, Kayla Frisoli*, Amanda Luby*, “Opening up the court (surface) in tennis grand slams”, Journal of Quantitative Analysis in Sports, 2021. 17(4), 255-271.\nAmanda Luby, Anjali Mazumder, Brian Junker, “Psychometric Analysis of Forensic Examiner Behavior”, Behaviormetrika, 2020. 47, 355-384.\nAmanda Luby, Joseph B Kadane, “Proficiency testing of fingerprint examiners with Bayesian Item Response Theory,” Law, Probability & Risk, 2018. 17(2), 111-121.\nAmanda Luby, “Strengthening Analyses of Lineup Procedures: A log-linear model framework,” Law, Probability & Risk, 2017. 16(4), 241–257."
   },
   {
     "objectID": "research.html#refereed-proceedings",
@@ -70,6 +70,13 @@
     "text": "Current students can take a look at recent syllabi here to get a sense of what my classes are like, but you can generally expect a collaborative classroom where you’ll learn real-world data analysis skills alongside statistical theory. If you are an instructor of a similar course, please reach out and I am happy to share materials with you."
   },
   {
+    "objectID": "teaching.html#at-carleton",
+    "href": "teaching.html#at-carleton",
+    "title": "Teaching",
+    "section": "At Carleton:",
+    "text": "At Carleton:\nStat120: Introduction to Statistics\n\nFall 2024 [Visual Syllabus] [Schedule]\n\nStat220: Introduction to Data Science\n\nWinter 2025 [Syllabus] [Schedule]\nSpring 2025\n\nStat250: Introduction to Statistical Inference\n\nSpring 2025"
+  },
+  {
     "objectID": "teaching.html#at-swarthmore",
     "href": "teaching.html#at-swarthmore",
     "title": "Teaching",
@@ -95,13 +102,13 @@
     "href": "index.html#upcoming",
     "title": "Amanda Luby",
     "section": "Upcoming:",
-    "text": "Upcoming:\n\nFall 2024: I’m now at Carleton College!"
+    "text": "Upcoming:\n\nMar 2025: I’ll be presenting in a session on Evaluating Scientific Validity of Forensic Science Methods Used in Criminal Courts at ENAR in New Orleans, LA.\nSpring term 2025: I’m teaching Stat220: Intro to Data Science and Stat250: Statistical Inference\nAug 2025: I’ll be presenting in a session on Data-Driven Justice: Transforming Forensic Science with Statistics, AI, and Data Science at JSM in Nashville, TN.\nSummer 2025: I’ll be starting up my research group at Carleton College"
   },
   {
     "objectID": "index.html#recent-ish",
     "href": "index.html#recent-ish",
     "title": "Amanda Luby",
     "section": "Recent (ish):",
-    "text": "Recent (ish):\n\nMarch 2024: Methodological Problems in Every Black-Box Study of Forensic Firearm Comparisons is available on arXiv. (Joint work with Maria Cuellar, Susan Vanderplas, Michael Rosenblum)\nFebruary 2024: Presented “An Empirical Approach to Inconclusives in Forensic Black Box Studies” at the North Sea Group Seminar on Legal Evidence and Proof. (Joint work with Jay Kadane)\nJune 2023: I was awarded the Stephen E Fienberg Young Investigator award for Best Project at the International Conference for Forensic Inference and Statistics in Lund, Sweden. I presented joint work with Erwin Mattijssen (NFI) on applying IRT to firearms analysis."
+    "text": "Recent (ish):\n\nDec 2024: Methodological Problems in Every Black-Box Study of Forensic Firearm Comparisons was published open-access at Law, Probability, and Risk. (Joint work with Maria Cuellar, Susan Vanderplas, Michael Rosenblum)\nFebruary 2024: Presented “An Empirical Approach to Inconclusives in Forensic Black Box Studies” at the North Sea Group Seminar on Legal Evidence and Proof. (Joint work with Jay Kadane)\nJune 2023: I was awarded the Stephen E Fienberg Young Investigator award for Best Project at the International Conference for Forensic Inference and Statistics in Lund, Sweden. I presented joint work with Erwin Mattijssen (NFI) on applying IRT to firearms analysis."
   }
 ]
