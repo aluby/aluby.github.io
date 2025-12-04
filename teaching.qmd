@@ -9,16 +9,22 @@ Current students can take a look at recent syllabi here to get a sense of what m
 Stat120: Introduction to Statistics
 
 - Fall 2024 \[[Visual Syllabus](files/visual-syllabus-f24.pdf)\] \[[Schedule](files/calendar-f24.pdf)\]
+- Fall 2025 
+- Spring 2026
 
 Stat220: Introduction to Data Science
 
 - Winter 2025 \[[Syllabus](files/stat220-w25-syllabus.pdf)\] \[[Schedule](files/stat220-w25-cal.pdf)\]
 - Spring 2025
+- Winter 2026
 
 Stat250: Introduction to Statistical Inference
 
 - Spring 2025
 
+Stat340: Bayesian Statistics
+
+- Fall 2025
 
 ## At Swarthmore:
 
