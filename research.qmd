@@ -10,7 +10,9 @@ Links to my current publications are available here. If you are having trouble a
 
 ## Peer-reviewed research articles:
 
-**Amanda Luby** and Joseph B Kadane, "[A Variance Decomposition Approach to Inconclusives in Forensic Black Box Studies](https://arxiv.org/abs/2507.02240)," *Law, Probability & Risk (to appear) 2025+.*
+**Amanda Luby** and Joseph B Kadane, "[A Variance Decomposition Approach to Inconclusives in Forensic Black Box Studies](https://doi.org/10.1093/lpr/mgag001)," *Law, Probability & Risk,* 25(1), 2026.
+
+-   **Amanda Luby** and Joseph B Kadane "[Modeling the middle ground: A rejoinder to Biedermann, Sjerps, and Kafadar, Rodu, & Campbell-Aaron](https://doi.org/10.1093/lpr/mgag004), *Law, Probability & Risk,* 25(1), 2026.
 
 Maria Cuellar, Susan Vanderplas, **Amanda Luby,** and Michael Rosenblum, "[Methodological problems in every black-box study of forensic firearm comparisons](https://academic.oup.com/lpr/article/23/1/mgae015/7917599)," *Law, Probability, & Risk,* 23(1) 2024.
 

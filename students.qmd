@@ -16,6 +16,8 @@ If you are a researcher at Carleton College or another institution looking to co
 
 ## Highlights
 
+**Ximena Comenares '28**, **Vivan Du '27**, **Josh Madigan '27**, and **Audrey Moyer '27** worked on the project "" in Summer 2026. They presented this work at the XX and at the ASA Midwest Regional Conference in Statistics and Data Science.
+
 **Thomas Daillak, Swarthmore '22** and **Sherry Huang, Swarthmore '23** were co-authors on "A Comparison of IRT-based methods for Spatial Responses", which was accepted for publication in *Quantitative Psychology* after completing the peer-review process.
 
 **Horace Shew, Swarthmore '22** received an honorable mention in the [CMSAC Reproducible Research Competition](https://www.stat.cmu.edu/cmsac/conference/2021/) (Methods-Student Track) for his paper ["**Applying Hierarchical Bayesian Models to ATP Data"**](https://www.stat.cmu.edu/cmsac/conference/2021/assets/pdf/HoraceShew.pdf)**.**
@@ -29,7 +31,7 @@ If you are a researcher at Carleton College or another institution looking to co
 |                                                      |                                                                                                                                                                                                                                                                                                                                                                          |
 |                                                      | *Junior Software Analyst at TS Partners Inc*                                                                                                                                                                                                                                                                                                                             |
 |                                                      |                                                                                                                                                                                                                                                                                                                                                                          |
-|                                                      | Sarah is a Mathematics major with an emphasis in Statistics, and a Computer Science major. She spent Summer 2022 analyzing how different scoring schemes and partial credit models impact the types of conclusions that can be drawn.                                                                                                                                    |
+|                                                      | Sarah was a Mathematics major with an emphasis in Statistics, and a Computer Science major. She spent Summer 2022 analyzing how different scoring schemes and partial credit models impact the types of conclusions that can be drawn.                                                                                                                                   |
 +------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/alyssa.jpeg)                              | **Alyssa Zhang '24**                                                                                                                                                                                                                                                                                                                                                     |
 |                                                      |                                                                                                                                                                                                                                                                                                                                                                          |
@@ -67,6 +69,12 @@ If you are a researcher at Carleton College or another institution looking to co
 ## Support
 
 Projects have been supported by:
+
+-   The Towsley Endowment for the Sciences
+
+-   Elaine Tatham '58 Endowed Fund for Mathematics and Statistics
+
+-   Cris Roosenraad Endowed Fund for Student Research
 
 -   The Center for Statistics and Applications in Forensic Evidence [CSAFE](forensicstats.org), a NIST-funded Center of Excellence
 

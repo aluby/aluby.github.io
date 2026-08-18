@@ -23,7 +23,7 @@ about:
 ::: {#hero-heading}
 I am an Assistant Professor of Statistics at Carleton College and a researcher with the Center for Statistics and Applications in Forensic Evidence. I received my PhD from Carnegie Mellon University in 2019. Prior to Carleton, I taught at Swarthmore College for five years.
 
-I primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis.
+I primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis. I also study the scientific and statistical foundations of forensic methods.
 
 I'm also interested in statistics pedagogy, particularly in trying to better understand (and fix!) misconceptions among introductory students, and better integrating computing, applications, and theory in upper-level courses.
 
@@ -34,9 +34,12 @@ I use she/her pronouns, and my last name is pronounced "loo-bee".
 
 ## Upcoming:
 
-- This year, I'm teaching Stat340: Bayesian Statistics and Stat230: Applied Regression Analysis at Carleton for the first time! I will also be teaching Intro to Statistics (fall, spring) and Intro to Data Science (winter). 
+-   I'll be presenting at the (virtual) [International Conference of Forensic Inference and Statistics](https://forensicstats.org/icfis-conference) this fall
+-   This year, I'm teaching Data Science and Applied Regression Analysis in the fall term; Bayesian Statistics in the winter term; and Intro to Statistics and Statistical Inference in the spring term
 
 ## Recent (ish):
+
+-   Apr 2026: [A variance decomposition approach to inconclusives in forensic black box studies](https://doi.org/10.1093/lpr/mgag001) was published open-access at *Law, Probaility, and Risk,* along with three thoughtful commentaries written by Marjan Sjerps; Alex Biedermann; and Karen Kafadar, Jordan Rodu, and Sydney Campbell-Aaron. (Joint work with Jay Kadane)
 
 -   Aug 2025: I presented in a session on Data-Driven Justice: Transforming Forensic Science with Statistics, AI, and Data Science at JSM in Nashville, TN.
 
