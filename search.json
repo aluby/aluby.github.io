@@ -11,42 +11,21 @@
     "href": "students.html#highlights",
     "title": "Student Research",
     "section": "Highlights",
-    "text": "Highlights\nThomas Daillak, Swarthmore ’22 and Sherry Huang, Swarthmore ’23 were co-authors on “A Comparison of IRT-based methods for Spatial Responses”, which was accepted for publication in Quantitative Psychology after completing the peer-review process.\nHorace Shew, Swarthmore ’22 received an honorable mention in the CMSAC Reproducible Research Competition (Methods-Student Track) for his paper “Applying Hierarchical Bayesian Models to ATP Data”.\nRiley Thompson, Swarthmore ’22 was a co-author on “Modeling Covarying Responses in Complex Tasks”, which was accepted for publication in Quantitative Psychology after completing the peer-review process."
+    "text": "Highlights\nXimena Comenares ’28, Vivan Du ’27, Josh Madigan ’27, and Audrey Moyer ’27 worked on the project “” in Summer 2026. They presented this work at the XX and at the ASA Midwest Regional Conference in Statistics and Data Science.\nThomas Daillak, Swarthmore ’22 and Sherry Huang, Swarthmore ’23 were co-authors on “A Comparison of IRT-based methods for Spatial Responses”, which was accepted for publication in Quantitative Psychology after completing the peer-review process.\nHorace Shew, Swarthmore ’22 received an honorable mention in the CMSAC Reproducible Research Competition (Methods-Student Track) for his paper “Applying Hierarchical Bayesian Models to ATP Data”.\nRiley Thompson, Swarthmore ’22 was a co-author on “Modeling Covarying Responses in Complex Tasks”, which was accepted for publication in Quantitative Psychology after completing the peer-review process."
   },
   {
     "objectID": "students.html#swarthmore-alumni",
     "href": "students.html#swarthmore-alumni",
     "title": "Student Research",
     "section": "Swarthmore Alumni",
-    "text": "Swarthmore Alumni\n\n\n\n\n\n\n\n\nSarah Conley ’24\nJunior Software Analyst at TS Partners Inc\nSarah is a Mathematics major with an emphasis in Statistics, and a Computer Science major. She spent Summer 2022 analyzing how different scoring schemes and partial credit models impact the types of conclusions that can be drawn.\n\n\n\nAlyssa Zhang ’24\nProduct Specialist at Qualtrics\nAlyssa graduated with a Computer Science and Art double major. She worked on analyzing survey responses and demographic information of fingerprint examiners who participated in the FBI studies.\n\n\n\nSherry Huang ’23\nSenior Business Analytics & Reporting Analyst at M&T Bank\nSherry graduated with a Mathematics major with an Emphasis in Statistics and minors in Computer Science and Chinese. Sherry worked on a project on imputation bias in minutiae marking by fingerprint examiners, including building an interactive visualization app\n\n\n\nHorace Shew ’22\nFinancial Analyst at Caine Mitter & Associates, Inc.\nHorace graduated with a Mathematics major with an Emphasis in Statistics along with a Classics minor. He focused on the implementation and comparison of various IRT models within a Bayesian and Frequentist framework in Summer 2021, and completed a project on modeling tennis outcomes with Bayesian hierarchical models during the 2021/2022 academic school year.\n\n\n\nRiley Thompson ’22\nSenior Research Assistant at the Federal Reserve Bank of Philadelphia\nRiley graduated with a Mathematics major with an Emphasis in Statistics and minors in Peace and Conflict Studies and Cognitive Science. Her research focused on covarying responses in IRT models and consistency of fingerprint examiner conclusions.\n\n\n\nThomas Daillak ’22\nAnalyst at Analysis Group\nThomas graduated with an honors major in Mathematics and Economics. His research with the group focused on clustering methods for marked minutiae and IRT without an answer key."
+    "text": "Swarthmore Alumni\n\n\n\n\n\n\n\n\nSarah Conley ’24\nJunior Software Analyst at TS Partners Inc\nSarah was a Mathematics major with an emphasis in Statistics, and a Computer Science major. She spent Summer 2022 analyzing how different scoring schemes and partial credit models impact the types of conclusions that can be drawn.\n\n\n\nAlyssa Zhang ’24\nProduct Specialist at Qualtrics\nAlyssa graduated with a Computer Science and Art double major. She worked on analyzing survey responses and demographic information of fingerprint examiners who participated in the FBI studies.\n\n\n\nSherry Huang ’23\nSenior Business Analytics & Reporting Analyst at M&T Bank\nSherry graduated with a Mathematics major with an Emphasis in Statistics and minors in Computer Science and Chinese. Sherry worked on a project on imputation bias in minutiae marking by fingerprint examiners, including building an interactive visualization app\n\n\n\nHorace Shew ’22\nFinancial Analyst at Caine Mitter & Associates, Inc.\nHorace graduated with a Mathematics major with an Emphasis in Statistics along with a Classics minor. He focused on the implementation and comparison of various IRT models within a Bayesian and Frequentist framework in Summer 2021, and completed a project on modeling tennis outcomes with Bayesian hierarchical models during the 2021/2022 academic school year.\n\n\n\nRiley Thompson ’22\nSenior Research Assistant at the Federal Reserve Bank of Philadelphia\nRiley graduated with a Mathematics major with an Emphasis in Statistics and minors in Peace and Conflict Studies and Cognitive Science. Her research focused on covarying responses in IRT models and consistency of fingerprint examiner conclusions.\n\n\n\nThomas Daillak ’22\nAnalyst at Analysis Group\nThomas graduated with an honors major in Mathematics and Economics. His research with the group focused on clustering methods for marked minutiae and IRT without an answer key."
   },
   {
     "objectID": "students.html#support",
     "href": "students.html#support",
     "title": "Student Research",
     "section": "Support",
-    "text": "Support\nProjects have been supported by:\n\nThe Center for Statistics and Applications in Forensic Evidence CSAFE, a NIST-funded Center of Excellence\nThe Lang Center for Civic and Social Responsibility at Swarthmore College\nSwarthmore College Academic Division Summer Funding"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Amanda Luby",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     CSAFE\n  \n  \n    \n     CV\n  \n  \n    \n     Scholar\n  \n\n  \n  \nI am an Assistant Professor of Statistics at Carleton College and a researcher with the Center for Statistics and Applications in Forensic Evidence. I received my PhD from Carnegie Mellon University in 2019. Prior to Carleton, I taught at Swarthmore College for five years.\nI primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis.\nI’m also interested in statistics pedagogy, particularly in trying to better understand (and fix!) misconceptions among introductory students, and better integrating computing, applications, and theory in upper-level courses.\nI’m always seeking new collaborations in the social and criminal justice space. Please get in touch if you’d like to work together on a quantitative project in this realm!\nI use she/her pronouns, and my last name is pronounced “loo-bee”."
-  },
-  {
-    "objectID": "index.html#upcoming",
-    "href": "index.html#upcoming",
-    "title": "Amanda Luby",
-    "section": "Upcoming:",
-    "text": "Upcoming:\n\nThis year, I’m teaching Stat340: Bayesian Statistics and Stat230: Applied Regression Analysis at Carleton for the first time! I will also be teaching Intro to Statistics (fall, spring) and Intro to Data Science (winter)."
-  },
-  {
-    "objectID": "index.html#recent-ish",
-    "href": "index.html#recent-ish",
-    "title": "Amanda Luby",
-    "section": "Recent (ish):",
-    "text": "Recent (ish):\n\nAug 2025: I presented in a session on Data-Driven Justice: Transforming Forensic Science with Statistics, AI, and Data Science at JSM in Nashville, TN.\nDec 2024: Methodological Problems in Every Black-Box Study of Forensic Firearm Comparisons was published open-access at Law, Probability, and Risk. (Joint work with Maria Cuellar, Susan Vanderplas, Michael Rosenblum)\nJune 2023: I was awarded the Stephen E Fienberg Young Investigator award for Best Project at the International Conference for Forensic Inference and Statistics in Lund, Sweden. I presented joint work with Erwin Mattijssen (NFI) on applying IRT to firearms analysis."
+    "text": "Support\nProjects have been supported by:\n\nThe Towsley Endowment for the Sciences\nElaine Tatham ’58 Endowed Fund for Mathematics and Statistics\nCris Roosenraad Endowed Fund for Student Research\nThe Center for Statistics and Applications in Forensic Evidence CSAFE, a NIST-funded Center of Excellence\nThe Lang Center for Civic and Social Responsibility at Swarthmore College\nSwarthmore College Academic Division Summer Funding"
   },
   {
     "objectID": "research.html",
@@ -60,7 +39,7 @@
     "href": "research.html#peer-reviewed-research-articles",
     "title": "Publications",
     "section": "Peer-reviewed research articles:",
-    "text": "Peer-reviewed research articles:\nAmanda Luby and Joseph B Kadane, “A Variance Decomposition Approach to Inconclusives in Forensic Black Box Studies,” Law, Probability & Risk (to appear) 2025+.\nMaria Cuellar, Susan Vanderplas, Amanda Luby, and Michael Rosenblum, “Methodological problems in every black-box study of forensic firearm comparisons,” Law, Probability, & Risk, 23(1) 2024.\nAmanda Luby, “A method for quantifying individual decision thresholds of fingerprint examiners,” Forensic Science International: Synergy, 7:100340, 2023.\nMaria Cuellar, Jacqueline Mauro, and Amanda Luby, “A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system” Journal of the Royal Statistical Society Series A - Statistics in Society, 185(2), 2022.\nAlex Reinhart, Ciaran Evans, Amanda Luby, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent “Think-aloud interviews: A tool for exploring student statistical reasoning” Journal of Statistics and Data Science Education, 2022. 30(2).\nShannon Gallagher*, Kayla Frisoli*, Amanda Luby*, “Opening up the court (surface) in tennis grand slams”, Journal of Quantitative Analysis in Sports, 2021. 17(4), 255-271.\nAmanda Luby, Anjali Mazumder, Brian Junker, “Psychometric Analysis of Forensic Examiner Behavior”, Behaviormetrika, 2020. 47, 355-384.\nAmanda Luby, Joseph B Kadane, “Proficiency testing of fingerprint examiners with Bayesian Item Response Theory,” Law, Probability & Risk, 2018. 17(2), 111-121.\nAmanda Luby, “Strengthening Analyses of Lineup Procedures: A log-linear model framework,” Law, Probability & Risk, 2017. 16(4), 241–257."
+    "text": "Peer-reviewed research articles:\nAmanda Luby and Joseph B Kadane, “A Variance Decomposition Approach to Inconclusives in Forensic Black Box Studies,” Law, Probability & Risk, 25(1), 2026.\n\nAmanda Luby and Joseph B Kadane “Modeling the middle ground: A rejoinder to Biedermann, Sjerps, and Kafadar, Rodu, & Campbell-Aaron, Law, Probability & Risk, 25(1), 2026.\n\nMaria Cuellar, Susan Vanderplas, Amanda Luby, and Michael Rosenblum, “Methodological problems in every black-box study of forensic firearm comparisons,” Law, Probability, & Risk, 23(1) 2024.\nAmanda Luby, “A method for quantifying individual decision thresholds of fingerprint examiners,” Forensic Science International: Synergy, 7:100340, 2023.\nMaria Cuellar, Jacqueline Mauro, and Amanda Luby, “A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system” Journal of the Royal Statistical Society Series A - Statistics in Society, 185(2), 2022.\nAlex Reinhart, Ciaran Evans, Amanda Luby, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent “Think-aloud interviews: A tool for exploring student statistical reasoning” Journal of Statistics and Data Science Education, 2022. 30(2).\nShannon Gallagher*, Kayla Frisoli*, Amanda Luby*, “Opening up the court (surface) in tennis grand slams”, Journal of Quantitative Analysis in Sports, 2021. 17(4), 255-271.\nAmanda Luby, Anjali Mazumder, Brian Junker, “Psychometric Analysis of Forensic Examiner Behavior”, Behaviormetrika, 2020. 47, 355-384.\nAmanda Luby, Joseph B Kadane, “Proficiency testing of fingerprint examiners with Bayesian Item Response Theory,” Law, Probability & Risk, 2018. 17(2), 111-121.\nAmanda Luby, “Strengthening Analyses of Lineup Procedures: A log-linear model framework,” Law, Probability & Risk, 2017. 16(4), 241–257."
   },
   {
     "objectID": "research.html#refereed-proceedings",
@@ -95,7 +74,7 @@
     "href": "teaching.html#at-carleton",
     "title": "Teaching",
     "section": "At Carleton:",
-    "text": "At Carleton:\nStat120: Introduction to Statistics\n\nFall 2024 [Visual Syllabus] [Schedule]\nFall 2025\nSpring 2026\n\nStat220: Introduction to Data Science\n\nWinter 2025 [Syllabus] [Schedule]\nSpring 2025\nWinter 2026\n\nStat250: Introduction to Statistical Inference\n\nSpring 2025\n\nStat340: Bayesian Statistics\n\nFall 2025"
+    "text": "At Carleton:\nStat120: Introduction to Statistics\n\nFall 2024 [Visual Syllabus] [Schedule]\nFall 2025\nSpring 2026\nSpring 2027\n\nStat220: Introduction to Data Science\n\nWinter 2025 [Syllabus] [Schedule]\nSpring 2025\nWinter 2026\nFall 2026\n\nStat230: Applied Regression Analysis\n\nSpring 2026\nFall 2026\n\nStat250: Introduction to Statistical Inference\n\nSpring 2025\nSpring 2026\n\nStat340: Bayesian Statistics\n\nFall 2025\nWinter 2026"
   },
   {
     "objectID": "teaching.html#at-swarthmore",
@@ -112,10 +91,24 @@
     "text": "At Carnegie Mellon:\nStat225: Introduction to Probability Theory\n\nSummer 2018\nSummer 2017\n\nStat309: Experimental Design for Behavioral and Social Sciences\n\nSummer 2016"
   },
   {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amanda Luby",
     "section": "",
-    "text": "When I’m not teaching, I love traveling, trying new food, and spending time outside. Here’s some highlights from recent adventures: some to give a talk, some for fun, some far away, and some close to home.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Github\n  \n  \n    \n     CSAFE\n  \n  \n    \n     CV\n  \n  \n    \n     Scholar\n  \n\n  \n  \nI am an Assistant Professor of Statistics at Carleton College and a researcher with the Center for Statistics and Applications in Forensic Evidence. I received my PhD from Carnegie Mellon University in 2019. Prior to Carleton, I taught at Swarthmore College for five years.\nI primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis. I also study the scientific and statistical foundations of forensic methods.\nI’m also interested in statistics pedagogy, particularly in trying to better understand (and fix!) misconceptions among introductory students, and better integrating computing, applications, and theory in upper-level courses.\nI’m always seeking new collaborations in the social and criminal justice space. Please get in touch if you’d like to work together on a quantitative project in this realm!\nI use she/her pronouns, and my last name is pronounced “loo-bee”."
+  },
+  {
+    "objectID": "index.html#upcoming",
+    "href": "index.html#upcoming",
+    "title": "Amanda Luby",
+    "section": "Upcoming:",
+    "text": "Upcoming:\n\nI’ll be presenting at the (virtual) International Conference of Forensic Inference and Statistics this fall\nThis year, I’m teaching Data Science and Applied Regression Analysis in the fall term; Bayesian Statistics in the winter term; and Intro to Statistics and Statistical Inference in the spring term"
+  },
+  {
+    "objectID": "index.html#recent-ish",
+    "href": "index.html#recent-ish",
+    "title": "Amanda Luby",
+    "section": "Recent (ish):",
+    "text": "Recent (ish):\n\nApr 2026: A variance decomposition approach to inconclusives in forensic black box studies was published open-access at Law, Probaility, and Risk, along with three thoughtful commentaries written by Marjan Sjerps; Alex Biedermann; and Karen Kafadar, Jordan Rodu, and Sydney Campbell-Aaron. (Joint work with Jay Kadane)\nAug 2025: I presented in a session on Data-Driven Justice: Transforming Forensic Science with Statistics, AI, and Data Science at JSM in Nashville, TN.\nDec 2024: Methodological Problems in Every Black-Box Study of Forensic Firearm Comparisons was published open-access at Law, Probability, and Risk. (Joint work with Maria Cuellar, Susan Vanderplas, Michael Rosenblum)\nJune 2023: I was awarded the Stephen E Fienberg Young Investigator award for Best Project at the International Conference for Forensic Inference and Statistics in Lund, Sweden. I presented joint work with Erwin Mattijssen (NFI) on applying IRT to firearms analysis."
   }
 ]
