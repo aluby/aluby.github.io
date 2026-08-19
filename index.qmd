@@ -34,8 +34,8 @@ I use she/her pronouns, and my last name is pronounced "loo-bee".
 
 ## Upcoming:
 
--   I'll be presenting at the (virtual) [International Conference of Forensic Inference and Statistics](https://forensicstats.org/icfis-conference) this fall
--   This year, I'm teaching Data Science and Applied Regression Analysis in the fall term; Bayesian Statistics in the winter term; and Intro to Statistics and Statistical Inference in the spring term
+-   I'll be presenting at the (virtual) [International Conference of Forensic Inference and Statistics](https://forensicstats.org/icfis-conference) this fall.
+-   This year, I'm teaching Data Science and Applied Regression Analysis in the fall term; Bayesian Statistics in the winter term; and Intro to Statistics and Statistical Inference in the spring term.
 
 ## Recent (ish):
 
