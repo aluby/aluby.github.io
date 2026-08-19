@@ -16,7 +16,7 @@ If you are a researcher at Carleton College or another institution looking to co
 
 ## Highlights
 
-**Ximena Comenares '28**, **Vivan Du '27**, **Josh Madigan '27**, and **Audrey Moyer '27** worked on the project "" in Summer 2026. They presented this work at the XX and at the ASA Midwest Regional Conference in Statistics and Data Science.
+**Ximena Comenares '28**, **Vivan Du '27**, **Josh Madigan '27**, and **Audrey Moyer '27** worked on the project "Bayesian Models for Analyzing the Impact of Examiner Variability in Forensic Fingerprint Comparisons" in Summer 2025. They presented this work at the 2025 Carleton Undergraduate Research and Internship Symposium and at the ASA Midwest Regional Conference in Statistics and Data Science in June 2026.
 
 **Thomas Daillak, Swarthmore '22** and **Sherry Huang, Swarthmore '23** were co-authors on "A Comparison of IRT-based methods for Spatial Responses", which was accepted for publication in *Quantitative Psychology* after completing the peer-review process.
 
